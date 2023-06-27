@@ -1,5 +1,5 @@
 ## Base de Intalación WordPress.
-- Autor: Dirección de Sistema y Desarrollo de Tecnologías
+- **Autor:** Dirección de Sistema y Desarrollo de Tecnologías
 
 ## Descripción: 
 Este es un instalador de WordPress modificado por el equipo de Sistema y Desarrollo de Tecnologías de la Información y la Comunicación  del Ministerio del Poder Popular para la Atencion de las Aguas.
