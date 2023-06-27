@@ -6,9 +6,9 @@ Este es un instalador de WordPress modificado por el equipo de Sistema y Desarro
 
 ## Este paquete incluye:
 - Plantilla oficial aprobada por el MINAGUAS, esta es una adaptacion del tema Newsup realizado por la Dirección de Sistema y Desarrollo de Tecnologías.
-    **PATH:** /wp-content/themes/minaguas
+    - **PATH:** /wp-content/themes/minaguas
 - Plugin para respaldo automatizado UpdraftPlus Pro.
-    **PATH:** /wp-content/plugins/updraftplus
+    - **PATH:** /wp-content/plugins/updraftplus
 
 ## Requisitos:
 - **PHP: 7.4+**
